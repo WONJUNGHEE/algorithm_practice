@@ -12,4 +12,4 @@ def solution(brown, yellow):
     #brown 값이랑 yellow 가로 세로 길이를 했을때 예측한 brown 값이 같은면 리턴
             expectbro= (width+2)*2 +length*2
             if expectbro==brown:
-                return [width+2,length+2]
+                    return [width+2,length+2]
